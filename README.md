@@ -1,3 +1,3 @@
 TalendCloud
 
-https://github.com/jordimerejo/TalendCloud
+https://github.com/iqtekdemorpa/TalendCloud
